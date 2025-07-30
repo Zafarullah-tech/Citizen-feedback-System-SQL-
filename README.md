@@ -47,7 +47,7 @@ This project helped me practice:
 ## 🎬 Project Demo
 
 Watch the full video walkthrough of the project:
-📽️ *[Link to Video Presentation](#)* *(Add your video link here)*
+📽️ *https://www.linkedin.com/posts/zafarullah-khan-74481b324_dbms-sql-databaseproject-activity-7356432626397704194-v8Cj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH9v2QBjTo5dexaPN8yR-3y8t0UaaDu1qA*
 
 ---
 
@@ -68,4 +68,4 @@ If you're a fellow student, tech enthusiast, or recruiter interested in backend 
 
 **Zafarullah Khan**  
 AI Engineer & Student  
-[LinkedIn Profile](https://linkedin.com/in/yourusername) *(replace with your link)*  
+linkedin.com/in/zafarullah-khan-74481b324*  
